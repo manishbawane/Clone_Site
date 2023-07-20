@@ -1,2 +1,3 @@
 # Clone_Site
+its my upcoming project.
 stack used to make this project - HTML, CSS, JavaScript...
